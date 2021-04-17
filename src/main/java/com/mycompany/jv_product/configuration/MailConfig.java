@@ -23,8 +23,9 @@ public class MailConfig {
         JavaMailSenderImpl mailSender = new JavaMailSenderImpl();
         mailSender.setHost("smtp.gmail.com");
         mailSender.setPort(587);
-        mailSender.setUsername("myEmail@gmail.com");
-        mailSender.setPassword("myPassword");
+        mailSender.setUsername("");//Input your email
+        mailSender.setPassword("");//Input your password
+        //direct to link https://myaccount.google.com/security and click on to low secure audience access in order to use this email
         
         Properties props = mailSender.getJavaMailProperties();
         props.put("mail.transport.protocol", "smtp");
