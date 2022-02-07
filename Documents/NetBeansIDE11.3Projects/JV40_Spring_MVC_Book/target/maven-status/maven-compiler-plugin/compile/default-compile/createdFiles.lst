@@ -1,0 +1,17 @@
+com\mycompany\jv40_spring_mvc_book\utils\ConvertUtils.class
+com\mycompany\jv40_spring_mvc_book\controller\BookController.class
+com\mycompany\jv40_spring_mvc_book\entities\BookEntity.class
+com\mycompany\jv40_spring_mvc_book\entities\CategoryEntity.class
+com\mycompany\jv40_spring_mvc_book\model\BookDetail.class
+com\mycompany\jv40_spring_mvc_book\service\CategoryService.class
+com\mycompany\jv40_spring_mvc_book\api\BookAPI.class
+com\mycompany\jv40_spring_mvc_book\configuration\AppInitializer.class
+com\mycompany\jv40_spring_mvc_book\model\Book.class
+com\mycompany\jv40_spring_mvc_book\repository\BookRepository.class
+com\mycompany\jv40_spring_mvc_book\configuration\JPAConfig.class
+com\mycompany\jv40_spring_mvc_book\entities\BookDetailEntity.class
+com\mycompany\jv40_spring_mvc_book\configuration\MVCConfig.class
+com\mycompany\jv40_spring_mvc_book\repository\CategoryRepository.class
+com\mycompany\jv40_spring_mvc_book\model\Category.class
+com\mycompany\jv40_spring_mvc_book\service\BookService.class
+com\mycompany\jv40_spring_mvc_book\api\HelloRestAPI.class
